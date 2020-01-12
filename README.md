@@ -67,7 +67,7 @@
 ![graph sin](https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture8.gif)
 
 
-##Limitations
+## Limitations
 
 ![limitations](https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Screenshot%20(40).png)
 
