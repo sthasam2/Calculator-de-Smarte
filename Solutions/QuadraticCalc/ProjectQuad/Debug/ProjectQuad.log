@@ -1,0 +1,4 @@
+﻿  quad.cpp
+  quad.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  ProjectQuad.vcxproj -> C:\Users\hp\Desktop\New folder\ProjectQuad\Debug\ProjectQuad.exe
+  ProjectQuad.vcxproj -> C:\Users\hp\Desktop\New folder\ProjectQuad\Debug\ProjectQuad.pdb (Partial PDB)
