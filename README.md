@@ -13,52 +13,52 @@
 	3. QT Creator (for Graph app)
 
 
-	![Tools]https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Screenshot%20(37).png
+	![Tools](https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Screenshot%20(37).png)
 
-	![VS]https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Screenshot%20(38).png
+	![VS](https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Screenshot%20(38).png)
 
-	![Qt]https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Screenshot%20(39).png
+	![Qt](https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Screenshot%20(39).png)
 
 	##Some Screenshots
 
 	###QT Menu
-	![menu]https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture1.gif
+	![menu](https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture1.gif)
 
 	###Windows Menu
-	![menu win]https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture10.png
+	![menu win](https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture10.png)
 
 
 	###General Calculator
-	![Gen Calc]https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture2.gif
+	![Gen Calc](https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture2.gif)
 
 
 	###Scientific Calculator
-	![Sci Calc]https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture3.gif
+	![Sci Calc](https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture3.gif)
 
 
 	###2 Variable Linear Eqn Solver
-	![2 eqn]https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture4.gif
+	![2 eqn](https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture4.gif)
 
 
 	###3 Variable Linear Eqn Solver
-	![3 eqn]https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture5.gif
+	![3 eqn](https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture5.gif)
 
 
 	###Quadratic Eqn Solver
-	![quad]https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture6.gif
+	![quad](https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture6.gif)
 
 
 	###Converter
-	![conv]https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture7.gif
+	![conv](https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture7.gif)
 
 
 	###Graph Visualizer
-	![graph menu]https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture9.png
+	![graph menu](https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture9.png)
 
-	![graph sin]https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture8.gif
+	![graph sin](https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Picture8.gif)
 
 
 	##Limitations
-	https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Screenshot%20(40).png 
+	![limitations](https://github.com/sthasam2/Calculator-de-Smarte/blob/master/readmefiles/Screenshot%20(40).png)
 
 
