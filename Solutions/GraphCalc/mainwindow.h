@@ -5,8 +5,9 @@
 #include <QtGui>
 #include "Dependencies/Library/qcustomplot.h"
 
-namespace Ui {
-class MainWindow;
+namespace Ui
+{
+    class MainWindow;
 }
 
 class MainWindow : public QMainWindow

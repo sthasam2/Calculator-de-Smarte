@@ -4,8 +4,7 @@
 using namespace System;
 using namespace System::Windows::Forms;
 
-[STAThreadAttribute]
-int main(array<String^>^ args) {
+[STAThreadAttribute] int main(array<String ^> ^ args) {
 	FreeConsole(); //Removes the Console Window
 
 	Application::EnableVisualStyles();
@@ -13,5 +12,4 @@ int main(array<String^>^ args) {
 	MenuCalc::main form; //USE NAMESPACE OF FORM
 	Application::Run(% form);
 	return 0;
-
 }

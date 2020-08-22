@@ -6,8 +6,7 @@
 using namespace System;
 using namespace System::Windows::Forms;
 
-[STAThreadAttribute]
-int main(array<String^>^ args) {
+[STAThreadAttribute] int main(array<String ^> ^ args) {
 	Application::EnableVisualStyles();
 	Application::SetCompatibleTextRenderingDefault(false);
 	Lin2Varh::Solver form; //USE NAMESPACE :: FORM_NAME

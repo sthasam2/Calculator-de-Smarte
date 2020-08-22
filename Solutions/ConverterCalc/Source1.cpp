@@ -1,9 +1,9 @@
-#include<iostream>
-#include<fstream>
+#include <iostream>
+#include <fstream>
 
 using namespace std;
-int main() {
+int main()
+{
 
 	cout << "hello";
-
 }
